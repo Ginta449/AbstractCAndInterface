@@ -1,0 +1,10 @@
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\bin\Debug\AstrologyExample.exe.config
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\bin\Debug\AstrologyExample.exe
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\bin\Debug\AstrologyExample.pdb
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.csprojAssemblyReference.cache
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.StarSign.resources
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.Properties.Resources.resources
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.csproj.GenerateResource.cache
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.csproj.CoreCompileInputs.cache
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.exe
+C:\Users\ginta\OneDrive\Documents\C#Practice\AstrologyExample\obj\Debug\AstrologyExample.pdb
